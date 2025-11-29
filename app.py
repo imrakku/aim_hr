@@ -14,7 +14,7 @@ from pypdf.errors import PdfReadError
 from google import genai  # <-- NEW
 
 # ---------- Config ----------
-API_KEY = "AIzaSyATIIsUVlEEU09vD4i8NdIHUm06pud496A"
+API_KEY = "AIzaSyA4FX5n2-uPvMy-qljJqea6M9zqi2yQ6m0"
 MODEL_NAME = "gemini-2.5-flash"  # uses the same style as your working example
 CV_EXTENSIONS = ('.txt', '.pdf')
 
